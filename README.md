@@ -37,7 +37,7 @@ curl "https://synthexai-takehome-6439c31477e9.herokuapp.com/predict?x=4.2"
 POST Request
 ```bash
 curl -X POST "https://synthexai-takehome-6439c31477e9.herokuapp.com/predict" \\
-  -H "Content-Type: application/json" \\
+  -H "Content-Type: application/json" \
   -d '{"x": 4.2}'
 ```
 You can use both a public or local URL.
