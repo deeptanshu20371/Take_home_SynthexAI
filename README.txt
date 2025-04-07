@@ -1,4 +1,3 @@
-
 # SynthexAI Take Home Assignment
 
 This project is a simple FastAPI backend that wraps around a pre-trained Linear Regression model. The API accepts a numeric input and returns a numeric prediction. It is deployed on Heroku and can be accessed publicly.
